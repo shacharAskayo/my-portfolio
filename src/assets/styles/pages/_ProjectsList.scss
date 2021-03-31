@@ -1,0 +1,36 @@
+.page2-container {
+    // height: 100vh;
+    // background-color: $bg2;
+    // padding: 20px;
+    // position: relative;
+    // display: flex;
+    // justify-content: center;
+    .projects-container {
+        display: flex;
+        height: 20vh;
+        img{
+            cursor: pointer;
+        }
+        // margin-top: 50px;
+        // height: 70vh;
+        // width: 63vw;
+        // overflow-y: overlay;
+        // padding: 30px;
+     
+    }
+}
+
+
+// .projects-container::-webkit-scrollbar {
+//     width: 10px;
+// }
+// /* Track */
+// .projects-container::-webkit-scrollbar-track {
+//     margin: 40px;
+// }
+// /* Handle */
+// .projects-container::-webkit-scrollbar-thumb {
+//     height: 50px;
+//     background: rgb(100, 100, 100);
+//     border-radius: 3px;
+// }
