@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/shacharAskayo/my-portfolio.git/static/css/main.0fb2db55.chunk.css",
+    "main.js": "/shacharAskayo/my-portfolio.git/static/js/main.7986df2a.chunk.js",
+    "main.js.map": "/shacharAskayo/my-portfolio.git/static/js/main.7986df2a.chunk.js.map",
+    "runtime-main.js": "/shacharAskayo/my-portfolio.git/static/js/runtime-main.35105f16.js",
+    "runtime-main.js.map": "/shacharAskayo/my-portfolio.git/static/js/runtime-main.35105f16.js.map",
+    "static/js/2.680c8427.chunk.js": "/shacharAskayo/my-portfolio.git/static/js/2.680c8427.chunk.js",
+    "static/js/2.680c8427.chunk.js.map": "/shacharAskayo/my-portfolio.git/static/js/2.680c8427.chunk.js.map",
+    "static/js/3.5910ccdc.chunk.js": "/shacharAskayo/my-portfolio.git/static/js/3.5910ccdc.chunk.js",
+    "static/js/3.5910ccdc.chunk.js.map": "/shacharAskayo/my-portfolio.git/static/js/3.5910ccdc.chunk.js.map",
+    "index.html": "/shacharAskayo/my-portfolio.git/index.html",
+    "static/css/main.0fb2db55.chunk.css.map": "/shacharAskayo/my-portfolio.git/static/css/main.0fb2db55.chunk.css.map",
+    "static/js/2.680c8427.chunk.js.LICENSE.txt": "/shacharAskayo/my-portfolio.git/static/js/2.680c8427.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/shacharAskayo/my-portfolio.git/static/media/hero-bg.422c44a9.png",
+    "static/media/angular-logo.png": "/shacharAskayo/my-portfolio.git/static/media/angular-logo.23e6380f.png",
+    "static/media/bitcoin-bg.png": "/shacharAskayo/my-portfolio.git/static/media/bitcoin-bg.c4f224ac.png",
+    "static/media/book-bg.png": "/shacharAskayo/my-portfolio.git/static/media/book-bg.234fdebb.png",
+    "static/media/css-logo.png": "/shacharAskayo/my-portfolio.git/static/media/css-logo.cb895d14.png",
+    "static/media/express-logo.png": "/shacharAskayo/my-portfolio.git/static/media/express-logo.375eee76.png",
+    "static/media/hooks-logo.png": "/shacharAskayo/my-portfolio.git/static/media/hooks-logo.745880fa.png",
+    "static/media/html-logo.png": "/shacharAskayo/my-portfolio.git/static/media/html-logo.d3fa1c40.png",
+    "static/media/js-logo.png": "/shacharAskayo/my-portfolio.git/static/media/js-logo.2a4cc696.png",
+    "static/media/logo.6ce24c58.svg": "/shacharAskayo/my-portfolio.git/static/media/logo.6ce24c58.svg",
+    "static/media/mail-bg.png": "/shacharAskayo/my-portfolio.git/static/media/mail-bg.6de3af9c.png",
+    "static/media/meme-bg.png": "/shacharAskayo/my-portfolio.git/static/media/meme-bg.1c152a69.png",
+    "static/media/mongo-screenshot.png": "/shacharAskayo/my-portfolio.git/static/media/mongo-screenshot.c4a0ffac.png",
+    "static/media/nodejs-logo.png": "/shacharAskayo/my-portfolio.git/static/media/nodejs-logo.253dc5dd.png",
+    "static/media/react-logo.png": "/shacharAskayo/my-portfolio.git/static/media/react-logo.83542137.png",
+    "static/media/redux-logo.png": "/shacharAskayo/my-portfolio.git/static/media/redux-logo.1b4bb5fc.png",
+    "static/media/trello-bg.png": "/shacharAskayo/my-portfolio.git/static/media/trello-bg.d9dc2899.png",
+    "static/media/vueX-logo.png": "/shacharAskayo/my-portfolio.git/static/media/vueX-logo.15c57e49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35105f16.js",
+    "static/js/2.680c8427.chunk.js",
+    "static/css/main.0fb2db55.chunk.css",
+    "static/js/main.7986df2a.chunk.js"
+  ]
+}
