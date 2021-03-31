@@ -16,8 +16,6 @@ import hooks from '../assets/imgs/logos/hooks-logo.png'
 import node from '../assets/imgs/logos/nodejs-logo.png'
 import mongo from '../assets/imgs/logos/mongo-screenshot.png'
 
-
-
 export function Home() {
     const projects = [
         {
