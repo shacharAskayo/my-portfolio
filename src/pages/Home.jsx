@@ -25,6 +25,12 @@ export function Home() {
             tech:[react,redux,node,express,mongo,scss]
         },
         {
+            name: 'Nomad ',
+            link: 'https://shacharaskayo.github.io/Nomad/#/',
+            img: 'nomad-git.png',
+            tech:[react,redux,scss,hooks]
+        },
+        {
             name: 'book API',
             link: 'https://mister-book.herokuapp.com/#/book',
             img: 'book-bg.png',
