@@ -22,7 +22,7 @@ export function Home() {
             name: 'Nomad ',
             link: 'https://nomad-global.herokuapp.com/#/login',
             img: 'nomad-git.png',
-            tech:[react,redux,scss,hooks]
+            tech:[react,redux,scss,hooks,node,express,mongo]
         },
         {
             name: 'fello ',
