@@ -19,16 +19,16 @@ import mongo from '../assets/imgs/logos/mongo-screenshot.png'
 export function Home() {
     const projects = [
         {
+            name: 'Nomad ',
+            link: 'https://nomad-global.herokuapp.com/#/login',
+            img: 'nomad-git.png',
+            tech:[react,redux,scss,hooks]
+        },
+        {
             name: 'fello ',
             link: 'https://fello-app-sprint.herokuapp.com/#/board/600fd618e1b83a00157f18fe',
             img: 'trello-bg.png',
             tech:[react,redux,node,express,mongo,scss]
-        },
-        {
-            name: 'Nomad ',
-            link: 'https://shacharaskayo.github.io/Nomad/#/',
-            img: 'nomad-git.png',
-            tech:[react,redux,scss,hooks]
         },
         {
             name: 'book API',
